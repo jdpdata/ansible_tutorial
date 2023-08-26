@@ -1,12 +1,12 @@
 [proxmox]
-pve1.local.jdpdata.net
-pve2.local.jdpdata.net
-pve3.local.jdpdata.net
-pve4.local.jdpdata.net
-pve5.local.jdpdata.net
+192.168.1.10
+192.168.1.20
+192.168.1.30
+192.168.1.40
+192.168.1.50
 
 [plex]
-plex.local.jdpdata.net
+192.168.1.156
 
 [traefik]
 192.168.1.184
